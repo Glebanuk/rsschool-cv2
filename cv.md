@@ -32,4 +32,37 @@ January 2021 - February 2022  | Ukraine
 * Organization of guitar lessons via Skype.
 * Teaching people of different ages.
 * Сreate an individual learning plan for students.
-* 
+
+#### Education
+
+### Pedagogical academy
+
+Faculty of music
+_September 2018 - December 2022_
+
+### English courses
+
+C1 level
+_September 2021 - May 2022_
+
+### RS School
+
+JavaScript/Front-end
+_March 2023 - up to now_
+
+![my avatar](./brown%20bear.jpg)
+
+### Contacts
+
+* Cell: +8888888888
+
+* E-mail: <glebbong12387@gmail.com>
+
+* Discord: (Glebanuk)#3447
+
+### Tech Skills
+
+* HTML5
+* CSS3
+* JS
+* GIT
