@@ -50,7 +50,7 @@ _September 2021 - May 2022_
 JavaScript/Front-end
 _March 2023 - up to now_
 
-![my avatar](./brown%20bear.jpg)
+![my avatar](./img/brown_bear.jpg)
 
 ### Contacts
 
