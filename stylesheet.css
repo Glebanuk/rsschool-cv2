@@ -1,0 +1,275 @@
+
+
+body{
+    background: #E5E5E5;
+     padding: 40px;
+     /* display: flex;
+     justify-content: center; */
+     font-family: 'Montserrat', sans-serif;
+}
+.wraper{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    width: 1200px;
+background-color: white;
+margin: 0 auto;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* .container{
+    max-width: 525px;
+    margin: 0 auto;
+} */
+.main-content{
+padding-left: 88px;
+}
+.nav_list{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-bottom: 80px;
+    margin-top: 40px;
+    padding-left: 0px;
+
+}
+
+.nav-link{
+    text-decoration: none;
+}
+.nav-link:hover{
+    color: #acb8cc;
+}
+.profesion{
+margin: 0 0 19px 0;
+Font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+}
+
+.profesion{
+    margin: 0 0 19px 0;
+}
+.my-name{
+    font-weight: 700;
+    margin-bottom: 28px;
+    font-weight: 700;
+font-size: 45px;
+line-height: 55px;
+
+color: #000000;
+margin: 0 0 28px 0;
+}
+.about-me{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+width: 525px;
+color: #595959;
+/* margin-bottom: 64px; */
+
+}
+.main_content-title{
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+margin: 0 0 8px 0;
+}
+
+
+.project-tech{
+    color: #595959;
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+
+.photo{
+width: 300px;
+margin-top: 40px;
+border-radius: 30px;
+height: 250px;
+margin-left: 20px;
+}
+.block_about-me{
+    margin-bottom: 64px;
+}
+/* projects */
+.my-progects{
+    padding: 0;
+    margin-bottom: 28px;
+}
+.container_projects-list{
+    padding: 0 0 0 16px;
+    margin: 0;
+}
+.project_link{
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+text-decoration-line: underline;
+color: #005FFF;
+
+}
+.project-item{
+
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+}
+/* expiriens */
+.work-exp-container{
+    margin-bottom: 44px;
+}
+.work_exp-position{
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+}
+.work_exp-position_item{
+   color: #6D9BF5;
+}
+.work-exp-term{
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+}
+.work-exp-place{
+    margin-bottom: 16px;
+}
+.work-duties{
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+
+}
+.work-duties-items{
+    padding: 0 0 0 16px;
+    margin: 0;
+
+}
+/* sidbar */
+.sidbar{
+   
+    width: 370px;
+    background: #E0EBFE;
+}
+
+.contacts,.skills{
+    margin: 48px 0 0 40px;
+
+}
+.sidbar_tittle{
+    font-style: normal;
+font-weight: 700;
+    font-size: 22px;
+    color: #161D2A;
+    margin-bottom: 8px;
+}
+.tel-mail{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+color: #161D2A;
+margin-right: 10px;
+
+}
+.contacts-item{
+    margin: 0;
+
+}
+.contacts-mail{
+    color: #2979FF;
+    font-weight: 400;
+font-size: 14px;
+}
+.contacts-tel{
+    color: #161D2A;
+    font-weight: 400;
+font-size: 14px;
+text-decoration: none;
+}
+.skills-wrap{
+    margin-bottom: 100%;
+}
+
+.skills-items{
+    margin: 0;
+    padding: 0 0 0 14px;
+}
+.skills-items_list{
+    color: #6D9BF5;
+}
+.skill-item{
+    color: #161D2A;
+    font-weight: 400;
+font-size: 14px;
+}
+
+
+/* education */
+.education_container{
+    margin-bottom: 50px;
+}
+.education-title{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 0 0 12px 0;
+}
+.education_universiti-name{
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #6D9BF5;
+margin-bottom: 0 0 12px 0;
+}
+.education_subject{
+    font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+margin-bottom:0 0  12p 0x;
+
+}
+.text-divaider{
+    color: #000000;
+}
+.education_period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px; 
+    color: #A8A8A8;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer_rs-logo{
+    display: flex;
+    align-items: center;
+}
+.RS-logo{
+    padding-left: 10px;
+}
+.my-git__link{
+    text-decoration: none;
+}
+.my-git__link:hover{
+    color: #acb8cc;
+}
